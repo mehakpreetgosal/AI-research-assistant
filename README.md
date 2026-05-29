@@ -85,7 +85,8 @@ Display AI Summary
 
 # loom video
 
-!
+![Watch video](https://youtu.be/rNLAGbloiC4)
+
 ---
 
 
