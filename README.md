@@ -1,4 +1,4 @@
-AI Research Assistant
+# AI Research Assistant
 
 An AI-powered Research Assistant built using Python, Tavily Search API, Groq LLMs, and Tkinter GUI.
 
@@ -6,7 +6,7 @@ This project searches the web for real-time information and generates concise AI
 
 ---
 
-Features
+# Features
 
 - Real-time web research using Tavily API
 - AI-generated summaries using Groq LLM
@@ -16,7 +16,7 @@ Features
 
 ---
 
-Tech Stack
+# Tech Stack
 
 Backend
 
@@ -40,7 +40,7 @@ Libraries Used
 ---
 
 
-How It Works
+# How It Works
 
 User Query
     ↓
@@ -54,7 +54,7 @@ Display AI Summary
 
 ---
 
-Code files
+# Code files
 
 ![main file](main.py)
 ![search file](search.py)
@@ -64,28 +64,28 @@ Code files
 ---
 
 
-GUI Preview
+# GUI Preview
 
 ![GUI Screenshot](gui/image1.png)
 ![GUI Screenshot](gui/image0.png)
 
 ---
 
-Example Output
+# Example Output
 
 ![Example Output](example-output.txt)
 
 ---
 
-Code Explanation
+# Code Explanation
 
 ![Code Explanation](explanation.txt)
 
 ---
 
-loom video
+# loom video
 
-
+!
 ---
 
 
