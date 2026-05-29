@@ -56,8 +56,8 @@ Display AI Summary
 
 GUI Preview
 
-![GUI Screenshot](gui/image0.png)
 ![GUI Screenshot](gui/image1.png)
+![GUI Screenshot](gui/image0.png)
 
 ---
 
