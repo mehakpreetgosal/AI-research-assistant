@@ -89,13 +89,16 @@ Display AI Summary
 
 ---
 
+# why did I choose Tavily instead of SerpAPI?
 
-Author
+THe reason I choosed Tavily was because it is accurate, easy to use, and beginner-friendly. It was ideal for my project as it gives summarized and structured responses. Tavily is specifically designed for AI applications and research assistants.Tavily provides AI-optimized search results that are cleaner and more relevent for LLM-based projects. The API response format is developer-friendly and easier to parse. Tavily API is also cost effective and easy to create. So basically Tavily was way more usefull for me than SerpAPI.
+
+# Author
 
 Mehakpreet kaur
 
 ---
 
-License
+# License
 
 This project is open-source and available under the MIT License.
