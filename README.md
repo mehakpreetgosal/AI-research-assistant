@@ -39,19 +39,6 @@ Libraries Used
 
 ---
 
-Project Structure
-
-AI-Research-Assistant/
-│
-├── gui.py
-├── main.py
-├── search.py
-├── summarizer.py
-├── requirements.txt
-├── README.md
-|── .gitignore
-
----
 
 How It Works
 
@@ -69,7 +56,8 @@ Display AI Summary
 
 GUI Preview
 
-![GUI Screenshot](images/gui.png)
+![GUI Screenshot](gui/image0.png)
+![GUI Screenshot](gui/image1.png)
 
 ---
 
@@ -78,6 +66,18 @@ Example Output
 ![Example Output](example-output.txt)
 
 ---
+
+Code Explanation
+
+![Code Explanation](explanation.txt)
+
+---
+
+loom video
+
+
+---
+
 
 Author
 
