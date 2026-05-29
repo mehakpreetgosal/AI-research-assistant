@@ -54,6 +54,16 @@ Display AI Summary
 
 ---
 
+Code files
+
+![main file](main.py)
+![search file](search.py)
+![summarizer file](summarizer.py)
+![gui file](gui.py)
+
+---
+
+
 GUI Preview
 
 ![GUI Screenshot](gui/image1.png)
